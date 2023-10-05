@@ -1,6 +1,5 @@
 name: 'attribution_use_case'
 version: '1.0'
-require-dbt-version: ">=0.17.0"
 config-version: 2
 
 model-paths: ["models"]
