@@ -15,7 +15,7 @@ with source as (
         ijifjierjfiejrigjerg
         context_campaign_source,
         context_campaign_medium,
-        context_campaign_name,
+        context_campaign_okeofkerokfer
         context_campaign_term,
         context_campaign_content,
         context_ip,
