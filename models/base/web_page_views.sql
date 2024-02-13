@@ -12,6 +12,7 @@ with source as (
         title,
         search,
         referrer,
+        ijifjierjfiejrigjerg
         context_campaign_source,
         context_campaign_medium,
         context_campaign_name,
