@@ -9,6 +9,7 @@ with source as (
         timestamp,
         url,
         path,
+        test,
         title,
         search,
         referrer,
